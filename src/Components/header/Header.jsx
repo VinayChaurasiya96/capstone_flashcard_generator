@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <>
       <div>
-        <h2 className="font-bold mt-5 text-2xl ">Create Flashcard</h2>
+        <h2 className="font-bold mt-5 text-2xl ">C Flashcard</h2>
         <div className="ml-2">
           <div className=" flex items-centre mt-2  ">
             <div>
